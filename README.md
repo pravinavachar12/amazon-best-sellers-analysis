@@ -45,9 +45,43 @@ This project demonstrates **data analysis fundamentals** — from loading and cl
 
 ---
 
-## 🧾 Step-by-Step Explanation of the Code
+## 🚀 How to Run This Project
 
-### 🔹 Step 1: Import Required Libraries
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
+Follow these steps to set up and run the project on your local machine:
+
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/pravinavachar12/amazon-best-sellers-analysis.git
+
+### 2️⃣ Navigate into the Folder
+
+cd amazon-bestseller-analysis
+
+### 3️⃣ Create a Virtual Environment (Recommended)
+
+python -m venv .venv
+
+### 4️⃣ Activate the Virtual Environment
+
+& .venv\Scripts\Activate.ps1
+
+### 5️⃣ Install Required Libraries
+
+pip install pandas matplotlib
+
+### 6️⃣ Run the Script
+
+python main.py
+
+### 7️⃣ View Output
+
+- The terminal will display the first few rows of data, column info, and analysis results.
+
+- You’ll also see two bar charts pop up:
+
+   - 📊 Top 10 Bestselling Authors (2009–2019)
+
+   - 📘 Average Rating by Genre
+
+- A new file top_authors.csv will be created in your project folder.
+
