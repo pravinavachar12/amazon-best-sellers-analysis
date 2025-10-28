@@ -85,3 +85,12 @@ python main.py
 
 - A new file top_authors.csv will be created in your project folder.
 
+## 👨‍💻 Author
+Pravin Avachar
+Connect with me on 
+- LinkedIn : [linkedin](https://www.linkedin.com/in/pravin-avachar-aab999320/)
+- GitHub: [@pravinavachar12](https://github.com/pravinavachar12)
+
+## 📃 License
+This project is open-source and available under the [Apache License](LICENSE).
+
